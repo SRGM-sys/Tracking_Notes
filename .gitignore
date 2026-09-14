@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+# Nota: GitHub tiene un límite de 100MB por archivo. 
+# Si algún .wav gigante te da error al subir, deberás ignorarlo así:
+# assets/music/*.wav
